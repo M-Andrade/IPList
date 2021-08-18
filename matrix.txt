@@ -1,3 +1,1 @@
-{
-"acecity.ddns.net":true,
-}
+{"acecity.ddns.net":true,"177.54.147.117":true}
