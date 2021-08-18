@@ -1,1 +1,1 @@
-{"acecity.ddns.net"}
+{"acecity.ddns.net":true}
